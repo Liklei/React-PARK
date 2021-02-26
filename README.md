@@ -1,10 +1,10 @@
-<!--
- * @Author: your name
- * @Date: 2021-02-22 16:34:09
- * @LastEditTime: 2021-02-22 16:34:45
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \React-PARK-main\README.md
--->
+
 # React-PARK
-react learn
+
+> react 生命周期
+
+- [生命周期](https://www.jianshu.com/p/b331d0e4b398)
+
+> 常用API熟悉
+
+> redux 原理
