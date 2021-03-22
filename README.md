@@ -1,7 +1,7 @@
 <!--
  * @Author: lance
  * @Date: 2021-02-27 00:13:48
- * @LastEditTime: 2021-03-21 20:45:15
+ * @LastEditTime: 2021-03-22 22:17:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit- 
  * @FilePath: \knowTech\React-PARK\README.md
@@ -11,7 +11,7 @@
 
 > react 生命周期
 
-- [生命周期](https://www.jianshu.com/p/b331d0e4b398)
+- [生命周期 1](https://www.jianshu.com/p/b331d0e4b398)
 
 > 常用API熟悉
 
